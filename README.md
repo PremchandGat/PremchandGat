@@ -7,6 +7,7 @@
 <a href="https://flutter.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/icons8-flutter-480.svg" alt="Flutter" height="70px"/> </a> 
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/icons8-firebase.svg" alt="firebase" height ="70px"/> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="70px" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/icons8-nodejs.svg"></a>
+<a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MY SQL" height ="70px" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/icons8-mysql-logo.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="70px" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/icons8-python.svg"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="left" alt="C Language" height ="70px" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/c-program-icon.svg"></a>
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height ="70px" src="https://raw.githubusercontent.com/PremchandGat/PremchandGat/icons/icons/icons8-dart.svg"></a>
