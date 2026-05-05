@@ -25,6 +25,7 @@
 <br>
 
 ### 📊 Github Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PremchandGatr&theme=radical)
 ![Stats Overview](https://raw.githubusercontent.com/PremchandGat/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/PremchandGat/github-stats-transparent/output/generated/languages.svg)
 <br>
