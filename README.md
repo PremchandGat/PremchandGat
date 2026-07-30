@@ -25,7 +25,7 @@
 <br>
 
 ### 📊 Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Premchandgat&theme=transparent)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Premchandgat&theme=transparent)
 ![Stats Overview](https://raw.githubusercontent.com/PremchandGat/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/PremchandGat/github-stats-transparent/output/generated/languages.svg)
 <br>
